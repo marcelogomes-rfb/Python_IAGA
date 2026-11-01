@@ -1,4 +1,4 @@
-###FFaça um programa para ler uma String e apresente todos as palavras desta String. Leve em
+###Faça um programa para ler uma String e apresente todos as palavras desta String. Leve em
 #  consideração que entre as palavras existem um, e somente um, caractere espaço. Veja, também, que o ponto final não faz parte da última palavra. Observe o resultado final
 #  na coluna “Resultados”.
 string = str(input()) # insere a string
